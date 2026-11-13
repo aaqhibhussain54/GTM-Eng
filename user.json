@@ -1,0 +1,12 @@
+{
+    "name": "Kyle",
+    "favoriteNumber": 3,
+    "isprogrammer": true,
+    "hobbies": ["weight Lifting", "Bowling"],
+    "friends": [{
+        "name": "joey",
+        "favoriteNumber": 100,
+        "isprogrammer": false,
+        "friends": []
+    }]
+}
